@@ -478,6 +478,9 @@ Inserte a continuación una captura de pantalla que muestre el resultado de ejec
 fichero `alumno.py` con la opción *verbosa*, de manera que se muestre el
 resultado de la ejecución de los tests unitarios.
 
+<img width="373" height="197" alt="img1" src="https://github.com/user-attachments/assets/dad47d37-4c93-4209-8681-eafa2d861ce6" />
+
+
 ##### Código desarrollado
 
 Inserte a continuación los códigos fuente desarrollados en esta tarea, usando los
