@@ -254,12 +254,6 @@ funcionamiento de su función.
 
 alumno.py 
 ```python
-"""
-Autora: Marí Fontseca Francino
-Descripción: Este módulo contiene la clase Alumno y la función leeAlumnos
-             para el tratamiento y lectura de expedientes académicos mediante
-             expresiones regulares.
-"""
 
 import re
 
